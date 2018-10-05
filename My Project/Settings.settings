@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Setting" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="son_minime" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sons/wakeup.wav</Value>
+    </Setting>
+    <Setting Name="son_urgent" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sons/wakeup.wav</Value>
+    </Setting>
+    <Setting Name="son_standard" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Sons/wakeup.wav</Value>
+    </Setting>
+    <Setting Name="jouer_son" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Son</Value>
+    </Setting>
+    <Setting Name="policetexte" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Microsoft Sans Serif, 8.25pt</Value>
+    </Setting>
+    <Setting Name="couleurtexte" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="fondecran" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
